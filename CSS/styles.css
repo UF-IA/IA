@@ -157,3 +157,14 @@ html { height: 100% }
 	padding: 4%;
 }
 
+
+.listing {
+	background-color: #faf5ef;
+	font-family: 'Montserrat', sans-serif;
+	padding: 6% 8% 8%;
+}
+
+.anchor {
+	text-decoration: none;
+	text-align:center;
+}
